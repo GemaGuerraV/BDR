@@ -1,7 +1,8 @@
-## Tarea #1
-#### Gema Guerra Valdez
+## Tarea #1 - GGV
+### Universidad de Ciencias Físico Matemáticas
+### Bases de Datos Relacionales
 
-La base de datos que elegí para trabajar en el tetramestre es sobre **DataCo Smart Supply Chain Dataset** en esta BD se simulan las operaciones de cadena de suministro de una empresa global. Se tienen aproximadamente 1 millón de registros.
+La base de datos que elegí para trabajar en el tetramestre es sobre **DataCo Smart Supply Chain Dataset** en esta BD se simulan las operaciones de cadena de suministro de una empresa global; se pueden observar información sobre los pedidos a esta empresa como la ubicación, nombre, segmento del cliente. También, se observa el # de pedido, la cantidad, el método de envío, los días que tardó y si arribó a tiempo. Se tienen aproximadamente 1 millón de registros.
 
 #### **El tipo de datos de cada variable es el siguiente:**
 - Type _(texto)_

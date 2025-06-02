@@ -6,4 +6,4 @@ A continuación se presenta el diagrama entidad-relación de la base de datos qu
 
 Esta BD muestra datos sobre películas y series, se tiene un total de 50,000 observaciones.
 
-![IMDb](IMdB.jpg)
+![IMdB](../IMdB.jpg)

@@ -6,4 +6,6 @@ A continuación se presenta el diagrama entidad-relación de la base de datos qu
 
 Esta BD muestra datos sobre películas y series, se tiene un total de 50,000 observaciones.
 
+Para acceder a las BD's dar click [aquí](https://datasets.imdbws.com/)
+
 ![IMdB](../IMdB.jpg)

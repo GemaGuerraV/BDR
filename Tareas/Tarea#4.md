@@ -4,5 +4,5 @@
 
 ### <span style="color: green;">MySQL code</span><P>
 
-Da click [aquí](https://vscode.dev/github/GemaGuerraV/BDR/blob/main/Tareas/Tarea4.sql) para descargar mi código SQL.
+Da click [aquí](https://github.com/GemaGuerraV/BDR/blob/main/Tareas/Tarea4.sql) para ver mi código SQL.
 

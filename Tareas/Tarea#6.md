@@ -3,9 +3,9 @@
 #### Maestría en Ciencia de Datos - Bases de Datos Relacionales
 
 
-### <span style="color: Orange;">Funciones de agregación</span><P>
+## <span style="color: Orange;">Funciones de agregación</span><P>
 
-<span style="color: Yellow;">1. Conteo de frecuencias o media</span><P>
+### <span style="color: Yellow;">1. Conteo de frecuencias o media</span><P>
 
 **Conteo de cantidad de clientes de cada tienda.**
 
@@ -32,7 +32,7 @@ FROM film;
 
 ![resultado3](image-2.png)
 
-<span style="color: Yellow;">2. Mínimos y máximos</span><P>
+### <span style="color: Yellow;">2. Mínimos y máximos</span><P>
 
 **Película con duración más corta**
 
@@ -48,7 +48,7 @@ FROM film;
 
 ![resultado5](image-4.png)
 
-<span style="color: Yellow;">Cuantil</span><P>
+### <span style="color: Yellow;">Cuantil</span><P>
 
 **Cuartil #1 - el 25% de los pagos son menores a el siguiente número:**
 
@@ -61,7 +61,7 @@ SELECT (SELECT amount<P>
 
 ![resultado6](image-5.png)
 
-<span style="color: Yellow;">Moda</span><P>
+### <span style="color: Yellow;">Moda</span><P>
 
 **Moda del monto pagado**
 
@@ -77,7 +77,7 @@ ORDER BY amount;
 
 ![resultado7](image-6.png)
 
-<span style="color: Yellow;">Hallazgos / Dificultades en la implementación</span><P>
+### <span style="color: Yellow;">Hallazgos / Dificultades en la implementación</span><P>
 
 Como comenté en la Tarea #5, recientemente elegí trabajar con esta BD y al tener 16 tablas, en ocasiones me es difícil encontrar la tabla que me va a dar los datos que me van a llevar a la respuesta que busco. Creo que cuando empecemos a utilizar JOINS podré realizar análisis más complejo.
 

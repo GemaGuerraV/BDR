@@ -9,6 +9,6 @@ Al importar las distintas tablas almacenadas en archivos .tsv, no tuve problema 
 
 La solución a esto es aumentar el límite de memoria RAM que Java le permite usar a DBeaver editando el archivo dbeaver.ini y modificando el parámetro -Xmx.
 
-Decidí no realizar este cambio y utilizar una base de datos más pequeña para principiantes llamada [sakila](https://dev.mysql.com/doc/sakila/en/sakila-installation.html).
+Decidí no realizar este cambio y utilizar una base de datos más pequeña para principiantes llamada [sakila](https://dev.mysql.com/doc/sakila/en/sakila-installation.html) la cual simula una tienda de alquiler de DVD/películas.
 
 
